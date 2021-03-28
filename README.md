@@ -1,4 +1,4 @@
-# Guess-the-Number
+# Javascript-Project-Guess-the-Number
 this is entirely JS based project 
 
 
